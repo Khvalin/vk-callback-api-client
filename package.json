@@ -1,5 +1,5 @@
 {
-  "name": "quiz",
+  "name": "vk-callback-api-client",
   "version": "0.0.1",
   "description": "vk-callback-api-client",
   "main": "server.js",
@@ -13,5 +13,9 @@
     "dotenv": "^4.0.0",
     "express": "^4.15.3",
     "mongodb": "^2.2.30"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Khvalin/vk-callback-api-client"
   }
 }
