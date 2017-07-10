@@ -2,7 +2,7 @@ var _connectionString = null
 
 var _getGroups = () => {
   return _makeRequest(db => {
-    return db.collection('groups').find().toArray()
+    return db.collection('vk_groups').find().toArray()
   })
 }
 
